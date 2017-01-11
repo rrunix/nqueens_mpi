@@ -1,3 +1,7 @@
+/**
+MPI Version of the solution proposed by Jeff Somers (http://www.jsomers.com/nqueen_demo/nqueens.html)
+*/
+
 typedef unsigned long long SOLUTIONTYPE;
 #include "nqmpi.h"
 
